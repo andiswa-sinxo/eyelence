@@ -82,7 +82,7 @@ p{
 }
 
 .header{
-    background: radial-gradient(#fff, #ffd6d6);
+    background: radial-gradient(#fff, #C5BAAF);
 }
 
 .header .row{
@@ -200,7 +200,7 @@ h4{
 }
 
 .footer{
-    background-color: #ffd6d6;
+    background: radial-gradient(#fff, #C5BAAF);
     color: #8a8a8a;
     font-size: 12px;
     padding: 60px 0 20px;
